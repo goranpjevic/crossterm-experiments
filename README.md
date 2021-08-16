@@ -10,4 +10,4 @@ this repository contains experiments i've done with the [crossterm](https://crat
 
 * `first-experiment`:
 
-![first-test output](images/first-test-output.png "first-test output" | width=250)
+![first-test output](images/first-test-output.png "first-test output")
